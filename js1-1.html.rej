@@ -1,0 +1,17 @@
+diff a/js1-1.html b/js1-1.html	(rejected hunks)
+@@ -0,0 +1,14 @@
++<!DOCTYPE html>
++<html lang="zh-cn">
++<head>
++	<meta charset="UTF-8">
++	<meta http-equiv="Content-Type" content="text/html",charset="utf-8" />
++	<title>js1-1</title>
++	<script>
++		document.write("æˆ‘åœ¨å­¦ä¹ JS");
++		alert("ç»™ç‚¹å»ºè®®å§");
++	</script>
++</head>
++<body>
++</body>
++</html>
+\ No newline at end of file
